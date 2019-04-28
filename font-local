@@ -1,0 +1,9 @@
+Nos dirigimos a esta url
+    https://canonicalized.com/local-font/
+
+Seleccionamos el estilo de letras y las variantes posteriormente descargamos
+
+Creamos el archivo y pegamos el contenido que nos dio la url
+    public/fonts/font-family/oswald.css
+
+Descomprimimos el archivo descargado en la ruta public/fonts
